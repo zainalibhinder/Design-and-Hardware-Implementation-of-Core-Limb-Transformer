@@ -1,0 +1,3 @@
+.xmcd diff=mathcad
+*.dwg diff=autocad
+*.dxf diff=autocad
